@@ -1,0 +1,2 @@
+# AspNetCoreRepo
+Repository using AspNetCore
